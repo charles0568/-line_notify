@@ -14,7 +14,7 @@
 
 ## 第三步 下載zip解壓縮在想要的路徑
 
-## 第四步 在地牛wake up!中選擇剛剛下載的earthquick.bat路徑
+## 第四步 在地牛wake up!中選擇剛剛下載的earthquick.bat路徑（編輯時 存成ANSI格式）
 <img src="https://user-images.githubusercontent.com/24865458/208751019-a2ca4838-1839-4e55-9cf6-a49853e98d78.png" width="50%">
 
 ## 第五步 調整earthquick.bat中設定notify.py檔案的位置
